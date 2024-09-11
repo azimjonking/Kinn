@@ -12,3 +12,38 @@
   min-height: 100dvh;
   background: #fff;
 }
+
+
+
+/* table section start */
+.table {
+  display: grid;
+  width: 100%;
+  min-height: 100dvh;
+  background: #ffffef;
+  padding: 40px 40px;
+  grid-template-columns: 1fr 1.5fr;
+}
+
+
+.table-soz {
+  width: 521px;
+  margin-left: 120px;
+  margin-top: 60px;
+}
+
+.table-soz-h1 {
+  font-size: 29px;
+  color: #56593D;
+  padding: 40px;
+  margin-right: 20px;
+}
+
+.table-soz-p {
+  font-size: 20px;
+  color: #56593D;
+  margin-left: 35px;
+}
+
+
+/* table section end */
