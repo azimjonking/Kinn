@@ -12,3 +12,89 @@
   min-height: 100dvh;
   background: #fff;
 }
+/* header section start  */
+header{
+  width: 100%;
+display: flex;
+  padding: 10px 20px;
+
+}
+nav {
+  width: 100%;
+  display: inline-block;
+}
+ul {
+  width: 100%;
+  display: inline-block;
+  margin-left: 120px;
+  padding: 10px 20px;
+}
+ul li{
+  display: inline-block;
+  justify-content: space-between;
+  gap: 20px;
+  margin-left: 50px;
+  list-style: none;
+  }
+
+ul li a{
+  text-decoration: none;
+  gap: 50px;
+ color: #56593D;
+  font-size: 18px;
+}
+ul li h1 a{
+  font-size: 28px;
+}
+ 
+
+.iclone{
+  margin-left: 350px;
+ 
+  
+}
+.iclone i {
+  width: 32px;
+   padding: 0 10px;
+color: #000000;
+gap: 200px;
+}
+
+.mega {
+  width: 1360px;
+  height: 732px;
+ 
+
+  background-image:url("/images/Rectangle.png");
+  background-repeat:no-repeat ;
+}
+ .all {
+ margin-left: 850px;
+ position: relative;
+ top: 450px;
+ 
+}
+.all p {
+  font-size: 18px;
+  color: #56593D;
+}
+.all h1{
+  font-size: 45px;
+  color: #56593D;
+}
+.header-button button {
+  
+  width: 154px;
+  height: 56px;
+  
+  border: none;
+  font-size: 16px;
+  color: #fff;
+  
+  
+  background-color: #56593D;
+}
+
+
+
+/* header section end  */
