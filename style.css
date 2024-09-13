@@ -16,7 +16,7 @@
 .essentialss {
   width: 100%;
   min-height: 100dvh;
-  background-image: url('./images/Rectangle.png');
+  background-image: url('./images/essential-bg.png');
   background-position: bottom;
   background-size: cover;
   padding: 32px;
