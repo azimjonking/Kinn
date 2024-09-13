@@ -12,6 +12,55 @@
   min-height: 100dvh;
   background: #fff;
 }
+/* story start */
+.story{
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding-left: 75px;
+  padding-right: 75px;
+
+}
+
+
+
+.story .matnlar{
+  margin-top: 80px;
+  align-items: center;
+  text-align: center;
+}
+
+.matnlar h1{
+  font-size: 30px;
+  font-weight: 500;
+  color: #56593D;
+  align-items: center;
+  margin-right: 90px;
+}
+
+.matnlar p{
+  font-size: 20px;
+  font-weight: 500;
+  color: #56593D;
+  line-height: 32.4px;
+  margin-top: 65px;
+  align-items: center;
+  margin-right: 85px;
+  margin-bottom: 250px;
+}
+
+.story{
+  width: 100%;
+  height: 746px;
+  background-color: rgba(255, 255, 239, 1);
+  align-items: center;
+  justify-content: center;
+  gap: 180px;
+}
+
+
+/* story end */
 
 /* header section start  */
 header{
